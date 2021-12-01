@@ -30,7 +30,7 @@ Addidtional software dir (/home/acore/apps/):
  - [acore-linux-restarter](https://github.com/nolt/acore-linux-restarter)
 
 ## How to create and import ACore Box.
-[HowTo](https://github.com/nolt/acore-box/howto/vm_create.md)
+[HowTo](./howto/vm_create.md)
 
 ## ACore Box screen
 ![image](./howto/img/acore-box.png)
