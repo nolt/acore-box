@@ -15,10 +15,10 @@ Archive size: 5,9GB, uncompressed 25,6GB (disk size 30GB)
 ## Creating VM
 Extract downloaded archive to your disk. Remember to have 30GB free space on it.
 
-1. Open VirtualBox and click New
+1. Open VirtualBox and click "New".  
 ![image](./img/1.png)
 
-2. In new window click "Expert Mode"
+2. In new window click "Expert Mode".  
 ![image](./img/2.png)
 
 3. In Expert Mode
@@ -28,13 +28,13 @@ Extract downloaded archive to your disk. Remember to have 30GB free space on it.
 - choose "Use an existing virtual hard disk file" and click orange folder
 ![image](./img/2b.png)
 
-4. Click "Add" and browse extracted file acore-box.vmdk, after that you will be able to select your VM disk, next press "Choose"
+4. Click "Add" and browse extracted file acore-box.vmdk, after that you will be able to select your VM disk, next press "Choose".
 ![image](./img/3.png)
 
-5. You will be back to the first window with VM details, double check if everything is as on screen below and press "Create"
+5. You will be back to the first window with VM details, double check if everything is as on screen below and press "Create".
 ![image](./img/2b.png)
 
-6. Select your new VM and click "Settings" icon 
+6. Select your new VM and click "Settings" icon. 
 ![image](./img/1.png)
 
 7. Go to "System" section and choose "Processor" tab. Here you will be able to adjust number of CPU's (cores) for your VM.
