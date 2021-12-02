@@ -2,15 +2,8 @@
 
 # ACore Box
 
- ## OS Credentials
- User: acore  
- Password: Server1
-
-Please change default user password to your own.
-
-## Download
-
-Archive size: 5,9GB, uncompressed 25,6GB (disk size 30GB)
+## VM disk description
+Archive size: 6,2GB, uncompressed 25,6GB (disk size 30GB)
 
 ## Creating VM
 Extract downloaded archive to your disk. Remember to have 30GB free space on it.
