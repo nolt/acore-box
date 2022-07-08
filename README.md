@@ -7,8 +7,8 @@ AzerothCore Box in short ACore Box is ready to go Virtual Machine with clean Aze
 With this VM you will be able to run a local AzerothCore server for learning and testing purpouses.
 
 ## Download
-https://mega.nz/file/oV5QwZLZ#npBXecNlbl2FSGnXVBj3BlJvP5uzS2uJuISSkNBwFS0  
-Archive size: 6,2GB, uncompressed 25,6GB (VM disk size 30GB)
+https://mega.nz/file/BQhglYIR#t5qf0ONehsA9nqIme27JXiyuTKKbizaG45fUqe_4ahU  
+Archive size: 8,7GB, uncompressed 26,7GB (VM disk size 30GB)
 
 ## HowTo - ACore Box manual
 1. [VM creation](./howto/vm_create.md)  
@@ -16,8 +16,8 @@ Archive size: 6,2GB, uncompressed 25,6GB (VM disk size 30GB)
 
 ## Installed components
 OS: Ubuntu 20.04  
-AzerothCore: rev 8668a03  
-Keira3: 3.3.0  
+AzerothCore: rev. [8668a03](https://github.com/azerothcore/azerothcore-wotlk/commit/c3d8340e6b6451650fc0a2a971b470e082015389)  
+Keira3: 3.4.1  
 MySQL: 8.0  
 phpMyAdmin: 4.9.5  
 Apache: 2.4.41  
